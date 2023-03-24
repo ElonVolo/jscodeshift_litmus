@@ -1,0 +1,10 @@
+{
+  "name": "jscodeshift_litmus",
+  "version": "1.0.0",
+  "description": "A litmus test for the simples jscodeshift errors.",
+  "main": "index.js",
+  "repository": "https://github.com/ElonVolo/jscodeshift_litmus.git",
+  "author": "Elon Volo <elonvolo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
